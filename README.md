@@ -22,3 +22,9 @@ learns very general representations of objects.
 To bypass the problem of selecting a huge number of regions, Ross Girshick et al. proposed a method where we use selective search to extract just 2000 regions from the image and he called them region proposals. Therefore, now, instead of trying to classify a huge number of regions, you can just work with 2000 regions. These 2000 region proposals are generated using the selective search algorithm.
 
 [Click here!](https://arxiv.org/pdf/1311.2524.pdf)
+
+
+## Google Deepdream Implementation
+DeepDream is a computer vision program created by Google engineer Alexander Mordvintsev which uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thus creating a dream-like hallucinogenic appearance in the deliberately over-processed images.
+
+[Click here for the Google AI Blog!](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
