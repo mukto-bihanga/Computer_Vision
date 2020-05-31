@@ -19,6 +19,6 @@ learns very general representations of objects.
 [Click here!](https://pjreddie.com/media/files/papers/yolo.pdf)
 
 ### Using R-CNN
-To bypass the problem of selecting a huge number of regions, Ross Girshick et al. proposed a method where we use selective search to extract just 2000 regions from the image and he called them region proposals. Therefore, now, instead of trying to classify a huge number of regions, you can just work with 2000 regions. These 2000 region proposals are generated using the selective search algorithm
+To bypass the problem of selecting a huge number of regions, Ross Girshick et al. proposed a method where we use selective search to extract just 2000 regions from the image and he called them region proposals. Therefore, now, instead of trying to classify a huge number of regions, you can just work with 2000 regions. These 2000 region proposals are generated using the selective search algorithm.
 
 [Click here!](https://arxiv.org/pdf/1311.2524.pdf)
