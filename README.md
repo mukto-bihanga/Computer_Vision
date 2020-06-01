@@ -28,3 +28,8 @@ To bypass the problem of selecting a huge number of regions, Ross Girshick et al
 DeepDream is a computer vision program created by Google engineer Alexander Mordvintsev which uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thus creating a dream-like hallucinogenic appearance in the deliberately over-processed images.
 
 [Click here for the Google AI Blog!](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
+
+## BigGAN Implementation
+BigGAN was one of the first prominent Generative Adversarial Networks. Trained on ImageNet at a now-humble 128x128 resolution this Network became a standard by its manifold generative abilities.
+
+[Click here for the paper!](https://arxiv.org/abs/1809.11096)
