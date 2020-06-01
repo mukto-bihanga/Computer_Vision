@@ -1,7 +1,7 @@
 # Computer_Vision
 All the computer vision projects and experiments
 
-## Kagle Setups
+## Kaggle Setups
 Setting up Google Colab to work seamlessly with Kaggle and it's datasets.
 Two alternative ways are given in case one of the process fails
 
